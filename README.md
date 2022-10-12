@@ -5,6 +5,7 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/61974788/194109995-53c618ff-4786-4f8e-ac0d-d4d056aba2a5.png">
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z3dc0ps&label=Profile%20views&color=0e75b6&style=flat" alt="z3dc0ps" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -21,7 +22,8 @@
 
 - 📄 Know about my experiences [https://jimmisimon.in/cv.pdf](https://jimmisimon.in/cv.pdf)
 
-<h3 align="left">Connect with me:</h3>
+[![@z3dc0ps's Holopin board](https://holopin.me/z3dc0ps)](https://holopin.io/@z3dc0ps)
+
 <p align="left">
 </p>
 
