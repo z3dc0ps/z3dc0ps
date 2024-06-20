@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **HackerOne and bugcrowd**
+- 🔭 I’m a **Student**
 
 - 🌱 I’m currently learning **Cyber Security**
 
@@ -20,7 +20,6 @@
 
 - 📫 How to reach me **jimmisimon8@gmail.com**
 
-- 📄 Know about my experiences [https://jimmisimon.in/cv.pdf](https://jimmisimon.in/cv.pdf)
 
 [![@z3dc0ps's Holopin board](https://holopin.me/z3dc0ps)](https://holopin.io/@z3dc0ps)
 
